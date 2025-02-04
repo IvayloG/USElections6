@@ -12,7 +12,7 @@ This project was generated with [App Builder Code Gen](https://www.infragistics.
 
 ## Run in VS Code
 
-NOTE: Running the app requires [.NET 8.0](https://dotnet.microsoft.com/en-us/download) to be installed.
+NOTE: Running the app requires [.NET 9.0](https://dotnet.microsoft.com/en-us/download) to be installed.
 
 - open this folder in **VS Code**
 
@@ -33,4 +33,4 @@ NOTE: Running the app requires [.NET 8.0](https://dotnet.microsoft.com/en-us/dow
 
 - [Documentation and Samples](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-getting-started-blazor-client)
 - [Infragistics NuGet Feed](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-nuget-feed)
-- [Razor Syntax](https://docs.microsoft.com/en-us/aspnet/core/blazor/components/?view=aspnetcore-6.0#razor-syntax)
+- [Razor Syntax](https://learn.microsoft.com/en-us/aspnet/core/blazor/components/?view=aspnetcore-9.0#razor-syntax)
